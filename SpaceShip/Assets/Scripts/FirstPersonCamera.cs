@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class FirstPersonCamera : MonoBehaviour
 {
-    public Transform ship;
+    public Transform character;
     public float sensitivityX = 30.0f;
     public float sensitivityY = 30.0f;
     public Rigidbody rigidBody;
-    public float speed = 90.0f;
 
     void Start()
     {

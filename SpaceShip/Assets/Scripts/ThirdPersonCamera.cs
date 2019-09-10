@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 //ryan mcvicker
 // 9/8/2019
+//script used for controlling the ThirdPersonCamera with ship
 public class ThirdPersonCamera : MonoBehaviour
 {
     public Transform LookAt;

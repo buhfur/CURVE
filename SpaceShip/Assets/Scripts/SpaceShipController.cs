@@ -26,10 +26,10 @@ public class SpaceShipController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();
+        MoveShip();
     }
 
-    void Move()
+    void MoveShip()
     {
         transform.position += transform.forward * 0.5f;
         if (FirstPersonCam.activeSelf)
