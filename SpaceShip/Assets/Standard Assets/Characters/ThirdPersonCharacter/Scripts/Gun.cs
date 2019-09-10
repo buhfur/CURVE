@@ -19,4 +19,7 @@ public class Gun : MonoBehaviour
     private float bulletDamage;
     [SerializeField]
     private Shooter myOwner;
+
+    [SerializeField]
+    SOMETHING
 }
