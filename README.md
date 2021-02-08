@@ -1,2 +1,2 @@
 # CURVE
-welcome to CURVE, an in deveopment game by ryan mcvicker and william sackett
+welcome to CURVE, an in deveopment game by ryan mcvicker 
